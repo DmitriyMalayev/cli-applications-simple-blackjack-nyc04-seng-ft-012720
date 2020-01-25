@@ -26,6 +26,7 @@ def end_game(total)
 end
 
 def initial_round
+  2.times do deal_card
   # code #initial_round here
 end
 
