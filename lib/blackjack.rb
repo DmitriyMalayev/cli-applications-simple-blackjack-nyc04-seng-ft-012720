@@ -22,7 +22,7 @@ def get_user_input
 end
 
 def end_game(apology)
-  puts "Sorry you hit #{apology}, thanks for playing"
+  puts "Sorry you hit #{apology}. Thanks for playing"
 end
 
 def initial_round
