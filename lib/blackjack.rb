@@ -26,7 +26,10 @@ def end_game(total)
 end
 
 def initial_round
-  2.times do deal_card
+  deal_card = a
+  deal_card = b
+  sum = a + b
+  puts sum
   end
   # code #initial_round here
 end
