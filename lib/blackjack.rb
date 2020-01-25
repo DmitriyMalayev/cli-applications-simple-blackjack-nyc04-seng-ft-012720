@@ -21,8 +21,8 @@ def get_user_input
   # code #get_user_input here
 end
 
-def end_game(apology)
-  puts "Sorry you hit #{apology}. Thanks for playing"
+def end_game(total)
+  puts "Sorry you hit #{total}. Thanks for playing"
 end
 
 def initial_round
