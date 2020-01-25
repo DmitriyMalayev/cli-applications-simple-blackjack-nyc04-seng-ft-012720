@@ -28,7 +28,8 @@ end
 def initial_round
   deal_card
   deal_card
-  # code #initial_round here
+  sum = deal_card + deal_card
+  puts sum
 end
 
 def hit?
