@@ -30,7 +30,6 @@ def initial_round
   deal_card = b
   sum = a + b
   puts sum
-  end
   # code #initial_round here
 end
 
