@@ -23,7 +23,6 @@ end
 
 def end_game(apology)
   puts apology
-  # code #end_game here
 end
 
 def initial_round
